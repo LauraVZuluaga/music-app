@@ -1,0 +1,46 @@
+body {
+  font-family: Poppins, sans-serif;
+  font-weight: 300;
+  min-height: 100vh;
+  background-image: linear-gradient(to bottom right, #dcced7, #765f8d);
+  background-attachment: fixed;
+  font-size: 16px;
+  color: var(--blue-dark);
+  line-height: 1.5;
+  overflow-x: hidden;
+  -webkit-tap-highlight-color: transparent;
+  padding: 5vh 15px;
+}
+
+/*COLORS*/
+.main-color{
+  color: #ec1844;
+}
+
+.secondary-color{
+  color: #141348;
+  font-weight: 700;
+}
+
+.secondary-color-light{
+  color: #141348;
+  font-weight: 500;
+  font-size: medium;
+} 
+
+/* END COLORS */
+
+/*TEXT */
+.txt-white{
+  color: white;
+}
+
+.txt-header{
+  font-family: normal normal normal 72px/normal roboto-bold,roboto,sans-serif;
+  font-size: 40px;
+}
+/*END TEXT */
+
+
+
+
